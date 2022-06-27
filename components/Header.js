@@ -18,6 +18,7 @@ export default function Header() {
                     src="assets/images/logo.png"
                     alt="Qurno"
                   />
+                  <p>Logo</p>
                 </a>
               </nav>
             </div>
